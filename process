@@ -1,0 +1,10 @@
+start the vagrent (virtual Machine) :- vagrant up
+go inside the virtual machine  :- vagarant ssh
+become the root user :- sudo -i
+go to the ekart app :- cd emart app
+check the docker file :- vi docker-compose.yaml
+lets run the docker file :- docker compose up -d
+lets check  the docker :- docker compose ps 
+now check the address :- ip addr show
+now copy the ip address and paste on the browser. 
+now the website is delivered.
